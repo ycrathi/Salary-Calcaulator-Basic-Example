@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Salary Calculator</string>
+    <string name="title">SALARY CALCULATOR</string>
+    <string name="name">Name</string>
+    <string name="salary">CTC</string>
+    <string name="tax">Tax</string>
+    <string name="epf">EPF</string>
+    <string name="netsalary">Net Salary</string>
+   <string name="secondtitle">ADD DETAILS</string>
+    <string name="btnadd">SUBMIT</string>
+    <string name="vertical_ellipsis">&#8942;</string>
+</resources>
